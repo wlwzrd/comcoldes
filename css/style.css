@@ -1520,6 +1520,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   list-style: none;
   padding-bottom: 10px;
 }
+
 .building_construction_area .building_construction_row .constructing_right .painting li a {
   font: 700 14px/50px "Roboto", sans-serif;
   color: #555555;
@@ -1534,6 +1535,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .building_construction_area .building_construction_row .constructing_right .painting li a:hover, .building_construction_area .building_construction_row .constructing_right .painting li a:focus {
   color: #f6b60b;
 }
+
 .building_construction_area .building_construction_row .constructing_right .contact_us {
   background: #f6b60b;
   padding: 30px;
