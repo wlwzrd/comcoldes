@@ -139,7 +139,7 @@ This files contents are outlined below.
   background-color: #ffffff;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(../images/preloader.gif);
+  background-image: url(../images/rotomartillo.gif)
 }
 
 /*--------------------------------------------------*/
@@ -2676,3 +2676,26 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 /*--------------------------------------------------*/
 
 /*# sourceMappingURL=style.css.map */
+.mivideo{
+  display: inline-block;
+  width: 100%; 
+  height: 500px;
+}
+
+.claseCentrar{
+  display: flex;
+ align-items: center;
+  gap: 5rem;
+  flex-direction: column;
+}
+
+.claseCentrar>div{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.mimarca{
+  width: 50px;
+  height: 50px;
+}
